@@ -1,11 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Seu nome aqui]
+# #100DaysOfCode Log - Round 1 - [Joash neves]
 
-O log do meu desafio #100DaysOfCode. Iniciado em [17 de julho, segunda-feira, 2017].
+O log do meu desafio #100DaysOfCode. Iniciado em [03 de julho, quinta-feira, 2025].
 
 ## Log
 
 ### R1D1 
 
-Iniciei um app de previsão do tempo. Trabalhei no rascunho do layout e tive dificuldades com a API OpenWeather http://www.example.com
+Comecei um aplicativo de editor de texto em C++ que usitiliza a biblioteca de FLTK
 
 ### R1D2
