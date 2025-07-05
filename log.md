@@ -8,6 +8,14 @@
 
 **Link do trabalho:** [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 
+### Dia 1: 04 de julho, 2025
+
+**Progresso do dia:** Entendi um pouco como funciona a biblioteca e coloque algumas telas.
+
+**Aprendizados:** Entendi como instanciar objetos no c++, e sobre seus constructos.
+
+**Link do trabalho:** [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
+
 
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
