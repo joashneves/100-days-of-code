@@ -11,3 +11,7 @@ Comecei um aplicativo de editor de texto em C++ que usitiliza a biblioteca de FL
 ### R1D2
 
 Coloquei alguns input e cores no programa.
+
+### R1D3
+
+"Finalizei" o primeiro projeto da lista!

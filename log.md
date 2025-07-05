@@ -16,6 +16,15 @@
 
 **Link do trabalho:** [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 
+### Dia 2: 05 de julho, 2025
+
+**Progresso do dia:** Fiz funcionar a base, do programa alem de finalizar o tutorial da [documentação](https://www.fltk.org/doc-1.3/editor.html#editor_editing)
+
+**Aprendizados:** Continuando em entender como funciona a biblioteca, alem de aprofundar o conhecimento em c++ com a estrutura hieraquica
+
+**Link do trabalho:** [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
+
+
 
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
