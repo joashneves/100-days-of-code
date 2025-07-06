@@ -15,3 +15,7 @@ Coloquei alguns input e cores no programa.
 ### R1D3
 
 "Finalizei" o primeiro projeto da lista!
+
+### R1D3
+
+Comocei um projeto na godot

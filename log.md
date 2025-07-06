@@ -24,8 +24,16 @@
 
 **Link do trabalho:** [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 
+### Dia 3: 06 de julho, 2025
+
+**Progresso do dia:** Comecei um projeto na godot usando C# 
+
+**Aprendizados:** Comecei a aprender a mexer na godot
+
+**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
 
 
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
+2. [Jogo](https://github.com/joashneves/Godot-game-2d)
 
