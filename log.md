@@ -32,6 +32,13 @@
 
 **Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
 
+### Dia 4: 07 de julho, 2025
+
+**Progresso do dia:** Contineui o projeto da godot, configunrando e criando uma mecanica simples
+
+**Aprendizados:** Algo como classes e objetos na godot, nada de muito novo por aqui
+
+**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
 
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)

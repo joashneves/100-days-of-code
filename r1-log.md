@@ -18,4 +18,8 @@ Coloquei alguns input e cores no programa.
 
 ### R1D3
 
-Comocei um projeto na godot
+Comecei um projeto na godot
+
+### R1D4
+
+Continuando o projeto da godot
