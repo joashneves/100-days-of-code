@@ -34,9 +34,17 @@
 
 ### Dia 4: 07 de julho, 2025
 
-**Progresso do dia:** Contineui o projeto da godot, configunrando e criando uma mecanica simples
+**Progresso do dia:** Continuei o projeto da godot, configunrando e criando uma mecanica simples
 
 **Aprendizados:** Algo como classes e objetos na godot, nada de muito novo por aqui
+
+**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
+
+### Dia 5: 08 de julho, 2025
+
+**Progresso do dia:** Crei um gerador simples na godot
+
+**Aprendizados:** Entender melhor os nos e tals
 
 **Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
 
