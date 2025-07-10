@@ -30,7 +30,7 @@
 
 **Aprendizados:** Comecei a aprender a mexer na godot
 
-**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
+**Link do trabalho:** [Jogo2D](https://github.com/joashneves/Godot-game-2d)
 
 ### Dia 4: 07 de julho, 2025
 
@@ -38,7 +38,7 @@
 
 **Aprendizados:** Algo como classes e objetos na godot, nada de muito novo por aqui
 
-**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
+**Link do trabalho:** [Jogo2D](https://github.com/joashneves/Godot-game-2d)
 
 ### Dia 5: 08 de julho, 2025
 
@@ -46,9 +46,17 @@
 
 **Aprendizados:** Entender melhor os nos e tals
 
-**Link do trabalho:** [Jogo](https://github.com/joashneves/Godot-game-2d)
+**Link do trabalho:** [Jogo2D](https://github.com/joashneves/Godot-game-2d)
+
+### Dia 6: 08 de julho, 2025
+
+**Progresso do dia:** Comecei um jogo basico com base no tutorial da godot de jogos em 3D
+
+**Aprendizados:** Entender melhor os nos e como funciona o editor em 3D
+
+**Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
 
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
-2. [Jogo](https://github.com/joashneves/Godot-game-2d)
-
+2. [Jogo2D](https://github.com/joashneves/Godot-game-2d)
+3. [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
