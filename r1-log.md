@@ -28,7 +28,11 @@ Continuando o projeto da godot
 
 Continuando o projeto da godot criei um gerador, e talz
 
-
-### R1D5
+### R1D6
 
 Comecei outro projeto na godot, so que em 3d para entendimento
+
+
+### R1D7
+
+termieni um jogo basico com base no tutorial da godot de jogos em 3D

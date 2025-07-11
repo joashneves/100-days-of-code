@@ -48,11 +48,19 @@
 
 **Link do trabalho:** [Jogo2D](https://github.com/joashneves/Godot-game-2d)
 
-### Dia 6: 08 de julho, 2025
+### Dia 6: 09 de julho, 2025
 
 **Progresso do dia:** Comecei um jogo basico com base no tutorial da godot de jogos em 3D
 
 **Aprendizados:** Entender melhor os nos e como funciona o editor em 3D
+
+**Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
+
+### Dia 7: 10 de julho, 2025
+
+**Progresso do dia:** termieni um jogo basico com base no tutorial da godot de jogos em 3D
+
+**Aprendizados:** Finalizado o tutorial
 
 **Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
 
