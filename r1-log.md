@@ -32,7 +32,10 @@ Continuando o projeto da godot criei um gerador, e talz
 
 Comecei outro projeto na godot, so que em 3d para entendimento
 
-
 ### R1D7
 
-termieni um jogo basico com base no tutorial da godot de jogos em 3D
+termieni um jogo basico com base no tutorial da godot de jogos em 3D\
+
+### R1D8
+
+Voltei a mexer no meu blog

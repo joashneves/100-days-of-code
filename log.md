@@ -64,7 +64,16 @@
 
 **Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
 
+### Dia 8: 11 de julho, 2025
+
+**Progresso do dia:** Voltei a mexer no meu blog
+
+**Aprendizados:** Entender toda a loucura que é aquele codigo
+
+**Link do trabalho:** [Blog](https://github.com/joashneves/joashneves.me)
+
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 2. [Jogo2D](https://github.com/joashneves/Godot-game-2d)
 3. [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
+4. [Blog](https://github.com/joashneves/joashneves.me)
