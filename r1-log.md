@@ -39,3 +39,7 @@ termieni um jogo basico com base no tutorial da godot de jogos em 3D\
 ### R1D8
 
 Voltei a mexer no meu blog
+
+### R1D9
+
+Construir o post do meu blog, algumas coisas a fazer ainda

@@ -72,6 +72,14 @@
 
 **Link do trabalho:** [Blog](https://github.com/joashneves/joashneves.me)
 
+### Dia 9: 12 de julho, 2025
+
+**Progresso do dia:**  Construir o back end do meu /post assim como test
+
+**Aprendizados:** Que o post do pm migrations
+
+**Link do trabalho:** [Blog](https://github.com/joashneves/joashneves.me)
+
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 2. [Jogo2D](https://github.com/joashneves/Godot-game-2d)
