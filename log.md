@@ -80,6 +80,14 @@
 
 **Link do trabalho:** [Blog](https://github.com/joashneves/joashneves.me)
 
+### Dia 10: 13 de julho, 2025
+
+**Progresso do dia:** termieni um jogo basico com base no tutorial da godot de jogos em 3D de modo definitivo
+
+**Aprendizados:** Finalizado o tutorial com animaçoes e arrumando a hud
+
+**Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
+
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 2. [Jogo2D](https://github.com/joashneves/Godot-game-2d)

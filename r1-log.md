@@ -34,7 +34,7 @@ Comecei outro projeto na godot, so que em 3d para entendimento
 
 ### R1D7
 
-termieni um jogo basico com base no tutorial da godot de jogos em 3D\
+terminei um jogo basico com base no tutorial da godot de jogos em 3D\
 
 ### R1D8
 
@@ -43,3 +43,7 @@ Voltei a mexer no meu blog
 ### R1D9
 
 Construir o post do meu blog, algumas coisas a fazer ainda
+
+### R1D10
+
+Terminei o tutorial da godot colocando hud e animaçoes
