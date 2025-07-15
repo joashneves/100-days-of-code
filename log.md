@@ -88,8 +88,18 @@
 
 **Link do trabalho:** [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
 
+### Dia 11: 14 de julho, 2025
+
+**Progresso do dia:** Comecei um joguinho simples de terraria
+
+**Aprendizados:** Geração procedural e esses tipos de coisa
+
+**Link do trabalho:** [Terraria8bit](https://github.com/joashneves/Terraria8bit)
+
+
 **Link(s) do(s) trabalho(s)**
 1. [Editor de texto](https://github.com/joashneves/text-Editor-cpp)
 2. [Jogo2D](https://github.com/joashneves/Godot-game-2d)
 3. [JogoTurorial3D](https://github.com/joashneves/godot-tutorial-3D)
 4. [Blog](https://github.com/joashneves/joashneves.me)
+5. [Terraria8bit](https://github.com/joashneves/Terraria8bit)

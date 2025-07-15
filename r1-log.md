@@ -47,3 +47,7 @@ Construir o post do meu blog, algumas coisas a fazer ainda
 ### R1D10
 
 Terminei o tutorial da godot colocando hud e animaçoes
+
+### R1D11
+
+Comecei um projeto no game maker 2
